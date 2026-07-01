@@ -1,3 +1,12 @@
+---
+title: SHL Assessment Recommendation Agent
+emoji: 🎯
+colorFrom: blue
+colorTo: purple
+sdk: docker
+app_port: 7860
+pinned: false
+---
 # SHL Assessment Recommendation Agent
 
 A Hybrid Retrieval-Augmented Generation (RAG) system that recommends relevant SHL assessments based on user requirements, compares assessments, and supports conversational updates with personality assessment filtering.
