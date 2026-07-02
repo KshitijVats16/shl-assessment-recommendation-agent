@@ -1,4 +1,3 @@
-notepad README.md
 # SHL Assessment Recommendation Agent
 
 A Hybrid Retrieval-Augmented Generation (RAG) system that recommends relevant SHL assessments based on user requirements, compares assessments, and supports conversational updates with personality assessment filtering.
